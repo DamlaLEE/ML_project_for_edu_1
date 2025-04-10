@@ -1,0 +1,18 @@
+작성일 : 2025-04-09
+
+**Project name** : Student Performance in Exams
+**Data source** : Kaggle
+https://www.kaggle.com/datasets/spscientist/students-performance-in-exams
+
+**Inspiration**
+To understand the influence of the paranets background, test perparation etc on staudent performance
+
+**information of tabel**
+- gender
+- race/ethnicity
+- parental level of education
+- lunch
+- test preparation course
+- score of three subjects
+    + Subjects : Math, Reading, Writing
+
