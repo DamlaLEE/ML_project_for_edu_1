@@ -57,7 +57,7 @@ ML_project_for_edu1/
 | **test preparation course**| 0            | 시험 준비 과정 미참여                    |
 |                            | 1            | 시험 준비 과정 완료                      |
 | **parental level of education** | 1~6     | 학부모의 교육 수준 (아래 참조)           |
-| **score_average            | mean()       | 3과목 점수의 평균 (maths, reading, writing) |
+| **score_average**          | mean()       | 3과목 점수의 평균 (maths, reading, writing) |
 
 **parental level of education 인코딩 기준**:
 
