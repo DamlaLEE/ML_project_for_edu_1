@@ -35,12 +35,12 @@
 ## 3️⃣ 데이터 및 파일 구조 설명
 
 ### 📁 3.1 폴더 구조
-ML_project_for_edu1/ 
-├─ utils/ 
-│ └─ utils_group.py # 머신러닝용 함수 정의 파일 
-├─ main.py # 메인 머신러닝 학습 파일 
-├─ README.md # 프로젝트 설명 파일 
-└─ basic info.txt # 기초 정보 요약
+ML_project_for_edu1/   
+├─ utils/   
+│ └─ utils_group.py # 머신러닝용 함수 정의 파일   
+├─ main.py # 메인 머신러닝 학습 파일   
+├─ README.md # 프로젝트 설명 파일   
+└─ basic info.txt # 기초 정보 요약  
 
 
 
