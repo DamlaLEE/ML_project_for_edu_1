@@ -1,4 +1,4 @@
-# 🧠 Student Performance ML Project
+# 🧠 Student Score Regression achine Learning Project
 
 (가상의 시나리오) '교육 서비스 A' 에서 학생의 점심, 학부모의 교육 수준, 인종 등을 고려하여 학생의 **향후 평균 학습 성적을 예측**하는 머신러닝 회귀 모델을 구현했습니다.  
 이를 통해 서비스 등록 시 필요한 절차를 자동화하거나, 개인화된 학습 경로를 제시하는 데 활용할 수 있습니다.
